@@ -49,7 +49,7 @@
 
 ![Screenshot 2024-01-02 154939](https://github.com/PuliNagaNeeraj/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849173/d07ee6f7-76d3-40ad-a4a5-8618dcae1d83)
 
-![image](https://github.com/PuliNagaNeeraj/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849173/47da662a-bf03-4e30-ab40-d4217d85e31e)
+![Screenshot 2024-01-02 155618](https://github.com/PuliNagaNeeraj/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138849173/19e16277-c007-4ea8-8dec-754153d77a1b)
 
 
 ## Output:
